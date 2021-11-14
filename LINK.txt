@@ -1,0 +1,15 @@
+VEPC SSR KPI MONITORING LINK: http://10.19.75.195/SSR_KPI/ssr_v1.php
+
+VODAFONE SNOC LINK(Nokia - CMG):http://10.19.75.195/newlink/new/PKC/c.php
+
+MOBILITY LIVE LINK: http://10.19.75.195/PKC/pkc1.php
+
+PAN INDIA THROUGHPUT :https://snoc-pms.vodafone.in/doms/wizard/index.php?reportId=13257&edit=0 
+
+SevOne IP: 10.241.46.234/10.241.46.139
+
+MNC CODES INDIA: http://mcc-mnc-india.blogspot.com/2009/09/mcc-mnc-codes-for.html
+
+MNC CODES GLOBAL: http://www.mcc-mnc.com/
+
+VODAFONE SERVICE MANAGER : http://10.19.32.29:9090/SM960/index.do?lang=en
